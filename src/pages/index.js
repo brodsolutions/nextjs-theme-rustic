@@ -15,10 +15,10 @@ function HomePage(props) {
     return (
         <Fragment>
             <Head>
-                <title>Rustic - React Business Template</title>
+                <title>Brod Solutions - React Business Template</title>
                 <meta
                     name='description'
-                    content='Rustic - React Business Template is an excellent solution to the web designing needs for your website related to creative agency, business, portfolio, corporate, etc. '
+                    content='Brod Solutions - React Business Template is an excellent solution to the web designing needs for your website related to creative agency, business, portfolio, corporate, etc. '
                 />
             </Head>
             <HeaderOne />

@@ -12,7 +12,7 @@ function allItemsPage(props) {
     <Fragment>
       <Head>
         <title>All Posts</title>
-        <meta name="description" content="Rustic posts!" />
+        <meta name="description" content="Brod Solutions posts!" />
       </Head>
       <HeaderTwo />
       <Breadcrumb activePage={"Posts"} pageTitle={"Our Posts"} />

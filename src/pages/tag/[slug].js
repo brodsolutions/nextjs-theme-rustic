@@ -13,7 +13,7 @@ const popularTagPage = ({ posts, tags, categories }) => {
         <Fragment>
             <Head>
                 <title>Popular Tags</title>
-                <meta name='description' content='Rustic posts!' />
+                <meta name='description' content='Brod Solutionsposts!' />
             </Head>
             <HeaderTwo />
             <Breadcrumb activePage={'Posts'} pageTitle={'Our Posts'} />

@@ -13,7 +13,7 @@ const CategoryPostPage = ({ posts, categories, tags }) => {
         <Fragment>
             <Head>
                 <title>Posts Category</title>
-                <meta name='description' content='Rustic posts!' />
+                <meta name='description' content='Brod Solutionsposts!' />
             </Head>
             <HeaderTwo />
             <Breadcrumb activePage={'Posts'} pageTitle={'Our Posts'} />

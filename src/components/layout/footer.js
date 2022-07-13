@@ -27,9 +27,9 @@ function Footer() {
                                         London, NW18JR, Uk
                                     </li>
                                     <li>
-                                        <Link href='mailto:hello@Rusticstudio.co'>
+                                        <Link href='mailto:solutions@brodsolutions.com'>
                                             <a className='hover:text-black transition-all'>
-                                                hello@Rusticstudio.co
+                                                solutions@brodsolutions.com
                                             </a>
                                         </Link>
                                     </li>
