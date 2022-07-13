@@ -1,2 +1,2 @@
-# nextjs-theme-rustica
+# nextjs-theme-rustic
 for Render
